@@ -47,7 +47,8 @@ async function run() {
         // core.setSecret(npmToken);
         // core.setSecret(npmToken);
         const contents = `@adaptabletools:registry=https://registry.adaptabletools.com
-//registry.adaptabletools.com/:_authToken=${PRIVATE_REGISTRY_TOKEN}`;
+//registry.adaptabletools.com/:_authToken=${PRIVATE_REGISTRY_TOKEN}
+package-lock=false`;
         fs.writeFile(
           ".npmrc",
 
