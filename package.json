@@ -1,7 +1,7 @@
 {
-  "name": "javascript-action",
+  "name": "@adaptabletools/release-library",
   "version": "1.0.0",
-  "description": "JavaScript Action Template",
+  "description": "Release library",
   "main": "index.js",
   "scripts": {
     "lint": "eslint index.js",
