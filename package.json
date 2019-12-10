@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/actions/javascript-action.git"
+    "url": "git+https://github.com/adaptabletools/release-library.git"
   },
   "keywords": [
     "GitHub",
@@ -20,9 +20,9 @@
   "author": "GitHub",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/actions/javascript-action/issues"
+    "url": "https://github.com/adaptabletools/release-library/issues"
   },
-  "homepage": "https://github.com/actions/javascript-action#readme",
+  "homepage": "https://github.com/adaptabletools/release-library#readme",
   "dependencies": {
     "@actions/core": "^1.1.1",
     "@actions/github": "^2.0.0"
